@@ -7,7 +7,7 @@ At J Daniels &amp; Associates we assist in helping take control of the legal sit
 More time to explore all options to keep your property or stop your Bankruptcy.
 Protect your Credit Rating.
 Take advantage of engaging J Daniels &amp; Associates to help you with your situation and use our expertise to assist.
-https://jdanielsandassociates.com.au/
+[J Daniels & Associates](https://jdanielsandassociates.com.au/)
 
 Do you need assistance due to Home Loan or Bankruptcy issues?
 Your local office phone number is located below.
@@ -24,4 +24,4 @@ VIC
 WA
 QLD
 SA
-
+[https://jdanielsandassociates.com.au/](https://jdanielsandassociates.com.au/)
