@@ -1,4 +1,4 @@
-theme: project-pages
+theme: jekyll-theme-candyman
 logo: /J-Daniels-&-Associates.png
 plugins:
   - jekyll-seo-tag
