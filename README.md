@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="K1kt4EgmD0wZIWG-HQ9hd_XAr5PVWkRsgsc0ZSkzinI" />
 # J Daniels &amp; Associates
 J Daniels &amp; Associates
 About J Daniel &amp; Associates
