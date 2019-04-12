@@ -1,4 +1,5 @@
 theme: jekyll-theme-leap-day
+logo: /J-Daniels-and-associates.svg
 plugins:
   - jekyll-seo-tag
 webmaster_verifications:
