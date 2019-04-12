@@ -1,4 +1,4 @@
-theme: jekyll-theme-project-pages
+theme: project-pages
 logo: /J-Daniels-&-Associates.png
 plugins:
   - jekyll-seo-tag
