@@ -1,2 +1,10 @@
 theme: jekyll-theme-leap-day
-google-site-verification: K1kt4EgmD0wZIWG-HQ9hd_XAr5PVWkRsgsc0ZSkzinI
+google-site-verification: "K1kt4EgmD0wZIWG-HQ9hd_XAr5PVWkRsgsc0ZSkzinI"
+# analytics
+google:
+  tracking: false       # boolean, true - turn google tracking on, false - turn google tracking off
+  tracking_id: ""       # your google tracking id
+  site_verification: "K1kt4EgmD0wZIWG-HQ9hd_XAr5PVWkRsgsc0ZSkzinI" # your google site verification
+bing:
+  tracking: false       # boolean, true - turn bing tracking on, false - turn bing tracking off
+  site_verification: "" # your bing site verification
