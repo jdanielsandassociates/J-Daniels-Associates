@@ -1,6 +1,5 @@
-<meta name="google-site-verification" content="K1kt4EgmD0wZIWG-HQ9hd_XAr5PVWkRsgsc0ZSkzinI" />
 # J Daniels &amp; Associates
-J Daniels &amp; Associates
+
 About J Daniel &amp; Associates
 Do you need assistance with Home Loan or Bankruptcy issues?
 At J Daniels &amp; Associates we assist in helping take control of the legal situation.
