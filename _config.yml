@@ -1,4 +1,4 @@
-theme: jekyll-theme-candyman
+theme: jekyll-theme-leap-day
 logo: /J-Daniels-&-Associates.png
 plugins:
   - jekyll-seo-tag
