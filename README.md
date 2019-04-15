@@ -1,13 +1,13 @@
-# J Daniels &amp; Associates
+# J Daniels &amp; Associates Pty Ltd
 
-About J Daniel &amp; Associates
+About J Daniel &amp; Associates Pty Ltd
 Do you need assistance with Home Loan or Bankruptcy issues?
-At J Daniels &amp; Associates we assist in helping take control of the legal situation.
+At J Daniels &amp; Associates Pty Ltd, we assist in helping take control of the legal situation.
 
 More time to explore all options to keep your property or stop your Bankruptcy.
 Protect your Credit Rating.
 Take advantage of engaging J Daniels &amp; Associates to help you with your situation and use our expertise to assist.
-[J Daniels & Associates](https://jdanielsandassociates.com.au/)
+[J Daniels & Associates Pty Ltd](https://jdanielsandassociates.com.au/)
 
 Do you need assistance due to Home Loan or Bankruptcy issues?
 Your local office phone number is located below.<br>
