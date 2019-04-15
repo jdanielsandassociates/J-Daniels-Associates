@@ -12,11 +12,11 @@ Take advantage of engaging J Daniels &amp; Associates to help you with your situ
 Do you need assistance due to Home Loan or Bankruptcy issues?
 Your local office phone number is located below.<br>
  |Sate|Phone Number|
- NSW|[02 8090 8050](tel:0280908050)<br>
-VIC|[02 8090 8050](tel:0280908050)<br>
-WA|[08 6102 6302](tel:0861026302)<br>
-QLD|[07 3077 6935](tel:0730776935)<br>
-SA|[08 8121 7715](tel:0881217715)
+|NSW|[02 8090 8050](tel:0280908050)|
+|VIC|[02 8090 8050](tel:0280908050)|
+|WA|[08 6102 6302](tel:0861026302)|
+|QLD|[07 3077 6935](tel:0730776935)|
+|SA|[08 8121 7715](tel:0881217715)|
 
  
 
