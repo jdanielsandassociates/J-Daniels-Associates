@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+remote_theme: melvinchng/event-jekyll-theme
 logo: /J-Daniels-&-Associates.png
 plugins:
   - jekyll-seo-tag
