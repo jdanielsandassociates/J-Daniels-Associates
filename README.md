@@ -2,7 +2,7 @@
 
 About J Daniel &amp; Associates Pty Ltd
 Do you need assistance with Home Loan or Bankruptcy issues?
-At J Daniels &amp; Associates Pty Ltd, we assist in helping take control of the legal situation.
+At J Daniels &amp; Associates Pty Ltd, we assist in helping take control of your situation.
 
 More time to explore all options to keep your property or stop your Bankruptcy.
 Protect your Credit Rating.
